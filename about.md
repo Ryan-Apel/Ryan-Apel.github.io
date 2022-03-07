@@ -10,7 +10,7 @@ Some information about you!
 
 Hello! I am a Chemistry student at California Polytechnic State University in San Luis Obispo, California.
 
-I work as a Student Researcher in the Costanzo Lab on campus. (https://costanzolab.com/)
+I work as a Student Researcher in the Costanzo Lab on campus. [CostanzoLab.com](https://costanzolab.com/)
 
 ### Contact me
 
