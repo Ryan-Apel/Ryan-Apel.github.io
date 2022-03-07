@@ -14,7 +14,7 @@ Course work includes, General Chemistry, Organic Chemistry, Physics, and Calculu
 ### Chemistry Lab Work
 Since Jan 2021, I work in an Organic Chemistry and Polymer lab with P.J. Costanzo, PhD. [CostanzoLab.com](https://costanzolab.com/)
 
-My responisbilities include maintaining lab safety, keeping a neat lab notebook, giving detailed presentations about our project, running reactions and characterizing our products.
+My responsibilities include maintaining lab safety, keeping a neat lab notebook, giving detailed presentations about our project, running reactions and characterizing our products.
 
 Experience in Organic Chemistry teaching labs.
 
