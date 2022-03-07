@@ -16,7 +16,7 @@ Hello! I am a Chemistry student at California Polytechnic State University in Sa
 
 I work as a Student Researcher in the Costanzo Lab on campus. [CostanzoLab.com](https://costanzolab.com/)
 
-I am possionate about Organic Chemistry and Polymers. I still have a lot to learn, but im excited to explore more!
+I am passionate about Organic Chemistry and Polymers. I still have a lot to learn, but im excited to explore more!
 
 ### Contact me
 
