@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chemistry Work
-permalink: /people/
+permalink: /work/
 ---
 Chemistry Major at Cal Poly, in San Luis Obispo
 
