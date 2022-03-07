@@ -16,7 +16,11 @@ Hello! I am a Chemistry student at California Polytechnic State University in Sa
 
 I work as a Student Researcher in the Costanzo Lab on campus. [CostanzoLab.com](https://costanzolab.com/)
 
-I am passionate about Organic Chemistry and Polymers. I still have a lot to learn, but im excited to explore more!
+I am passionate about Organic Chemistry and Polymers. I still have a lot to learn, but I am excited to explore more!
+
+I love to make food and eat food. Cooking and baking are a great way to do a little chemistry at home. I love to work on new recepies and flavors, always trying to expand my palate.
+
+I also like to get together with some buds to play Jazz. I am a Jazz Trumpet player and am always trying to learn more and imporve my skills. Currently working my way through every song in the Bb Real Book.
 
 ### Contact me
 
