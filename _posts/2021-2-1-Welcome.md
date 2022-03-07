@@ -12,7 +12,7 @@ Feel free to reach out to learn more!
 
 ### More Information
 
-Hello! I am a Chemistry student at California Polytechnic State University in San Luis Obispo, California.
+I am a Chemistry student at California Polytechnic State University in San Luis Obispo, California.
 
 I work as a Student Researcher in the Costanzo Lab on campus. [CostanzoLab.com](https://costanzolab.com/)
 
